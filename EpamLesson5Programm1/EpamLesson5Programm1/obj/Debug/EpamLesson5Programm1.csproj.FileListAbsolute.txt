@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\bin\Debug\EpamLesson5Programm1.exe.config
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\bin\Debug\EpamLesson5Programm1.exe
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\bin\Debug\EpamLesson5Programm1.pdb
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\obj\Debug\EpamLesson5Programm1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\obj\Debug\EpamLesson5Programm1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\obj\Debug\EpamLesson5Programm1.exe
+C:\Users\User\source\repos\EpamLesson5Programm1\EpamLesson5Programm1\obj\Debug\EpamLesson5Programm1.pdb
